@@ -1,0 +1,2 @@
+* Upgrades only for old customers, those who already installed the script on their server!
+* Replace old files on your server with new files present at upload directory.

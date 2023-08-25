@@ -1,0 +1,9 @@
+
+Installation
+
+1. Login into Admin Panel
+
+2. Now select, Admin Panel -> Addons -> Install Addons
+
+3. Click browse button and select addon package. 
+
